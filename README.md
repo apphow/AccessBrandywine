@@ -17,6 +17,11 @@ So they could put signs up, saying download the web app, the land owners could s
 - track phoneid anonymously
 - track usage within a geo boundary.
 
+- admin/owner access
+  - able to see who and when the users were
+  - alerts on access?
+  - yes/no on access?
+
 ### Tech Stack
 
 - ui flutter (for easy ios/android distribution)
