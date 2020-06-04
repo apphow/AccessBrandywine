@@ -15,7 +15,7 @@ So they could put signs up, saying download the web app, the land owners could s
 - permission ask/grant
 - waiver - check with phone id
 - track phoneid anonymously
-- track usage within a geo boundary.
+- track usage within a geo boundary. geofencing
 
 - admin/owner access
   - able to see who and when the users were
