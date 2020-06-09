@@ -12,6 +12,7 @@ So they could put signs up, saying download the web app, the land owners could s
 
 - map integration to show where the user is, and where parking/access slots are.
 - signup, with oAuth (facebook or google).
+- facebook would allow for RW ID?
 - permission ask/grant
 - waiver - check with phone id
 - track phoneid anonymously
@@ -29,3 +30,20 @@ So they could put signs up, saying download the web app, the land owners could s
 - firebase for Auth and DB tracking.
 - May need open map API of some kind (leaflet?)
 - Maybe map is hardwired?
+
+### ToDos
+
+- flutter video
+- longer tutorial startup name gen
+- google maps, or leaflet?
+- 14K auth a month. before payment.
+- thinking about the screens/pages and their flow
+  - red vs. green for access
+- needs a admin UI that the sponsors have access to approve or deny access to a user
+- card has name and Photo?
+- approval before arrival and/or at arrival
+- presumptive approval, and explicit denial?? is that something they're comfortable with/
+- prototype - for jeff, balsamiq (or other wireframing tools)
+
+
+
